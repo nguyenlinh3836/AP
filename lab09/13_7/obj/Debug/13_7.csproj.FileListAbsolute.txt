@@ -1,0 +1,6 @@
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_7\bin\Debug\13_7.exe.config
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_7\bin\Debug\13_7.exe
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_7\bin\Debug\13_7.pdb
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_7\obj\Debug\13_7.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_7\obj\Debug\13_7.exe
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_7\obj\Debug\13_7.pdb

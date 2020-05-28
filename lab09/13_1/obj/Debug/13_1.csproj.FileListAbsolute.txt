@@ -1,0 +1,7 @@
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_1\bin\Debug\13_1.exe.config
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_1\bin\Debug\13_1.exe
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_1\bin\Debug\13_1.pdb
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_1\obj\Debug\13_1.csprojAssemblyReference.cache
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_1\obj\Debug\13_1.exe
+C:\Users\Nguyen Hoang Linh\source\repos\Session5\13_1\obj\Debug\13_1.pdb
